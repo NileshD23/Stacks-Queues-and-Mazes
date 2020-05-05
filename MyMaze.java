@@ -1,6 +1,4 @@
-// Names: Nilesh Domah      Adeyinka Omotoyinbo
-// x500s: domah001          omoto011
-
+// written by Nilesh Domah
 
 import java.util.Random;
 
